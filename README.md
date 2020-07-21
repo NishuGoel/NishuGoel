@@ -4,7 +4,6 @@
 	<br>
 	<a href="https://twitter.com/@dcoustawilson" target="_blank">
 		<img src="header.svg" width="800" height="400">
-
 	</a>
 	<br>
 </div>
