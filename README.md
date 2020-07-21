@@ -25,3 +25,5 @@
 <div>Talk at Azure UK and Ireland about deploying Angular on Azure with CI/CD - https://bit.ly/2S1khY2</div>
 <div>Udemy course (beginner-level) for getting started with Angular - https://www.udemy.com/course/angular-for-beginners-l/</div>
 
+
+Thank you!
