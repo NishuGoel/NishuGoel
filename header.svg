@@ -60,6 +60,9 @@
 					color: white;
 					text-align: center;
 				}
+				.imageStyle{
+					text-align: center;
+				}
 
 				h1 {
 					font-size: 50px;
@@ -82,6 +85,7 @@
 				}
 			</style>
 			<div class="container">
+				<div class="imageStyle"><img src="https://imgur.com/yOuBW4r" alt="my_image"></img></div>
 				<h1>Unraveling the web with you!</h1>
 				<p>Come, Say hi!</p>
 			</div>
