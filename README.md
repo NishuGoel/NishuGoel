@@ -13,11 +13,12 @@
 
 
 	
-<div>Putting down here some of my work:</div>
-<div>My book on Routing and navigation in Angular - amzn.to/2I39w2K</div>
+## Putting down here some of my work:
+	
+<div>My book on Routing and navigation in Angular - http://amzn.to/2I39w2K</div>
 <div>Codelab on creating webcomponents using Angular and consuming in React, Vanilla JS etc. - https://bit.ly/msdevcon-web</div>
 <div>Talk at ngIndia 2019 on Hostbinding and Hostlistener - https://youtu.be/nRrbYGXE8xQ</div>
-<div>Adventure in Angular Podcast about Web components - ow.ly/jTKp50A4luh</div>
+<div>Adventure in Angular Podcast about Web components -  http://ow.ly/jTKp50A4luh</div>
 <div>Talk at ngSrilanka on Creating libraries with Angular - https://youtu.be/GG0idbhZUFU</div>
 <div>Blog on Custom Add to home Screen feature for your PWA - https://medium.com/@nishu0505/custom-a2hs-for-your-pwa-114d77d97fb0</div>
 <!-- Talk on Framework-agnostic web components at JSVidCon - -->
