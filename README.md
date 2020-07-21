@@ -1,27 +1,12 @@
-### Hi there 👋
-
-<!--
-**NishuGoel/NishuGoel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-
-
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Hi there 👋
 
 <div align="center">
 	<br>
-	<a href="https://github.com/NishuGoel/NishuGoel/header.svg">
+	<a href="https://twitter.com/@dcoustawilson" target="_blank">
 		<img src="header.svg" width="800" height="400">
 	</a>
 	<br>
 </div>
+
+<div>My name is Nishu Goel. I code React@The DataWorks, am an Angular fan person <3. I write blog posts and code labs around Angular and general web development concepts here: nishugoel.wordpress.com and on https://medium.com/@nishu0505. I am recognised as a Google developer expert in Angular and Web technologies, and awarded Microsoft MVP in Developer technologies.</div>
+<br>
