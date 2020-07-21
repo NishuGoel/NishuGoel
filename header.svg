@@ -60,9 +60,6 @@
 					color: white;
 					text-align: center;
 				}
-				.imageStyle{
-					text-align: center;
-				}
 
 				h1 {
 					font-size: 50px;
