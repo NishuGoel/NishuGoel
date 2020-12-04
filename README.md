@@ -8,7 +8,7 @@
 	<br>
 </div>
 
-<div>My name is Nishu Goel. I code React@The DataWorks, am an Angular fan person <3. I write blog posts and code labs around Angular and general web development concepts here: <a href="nishugoel.wordpress.com" target="_blank">https://unravelweb.dev/</a> and on <a href="https://medium.com/@nishu0505" target="_blank">Medium</a>. I am recognised as a Google developer expert in Angular and Web technologies, and awarded Microsoft MVP in Developer technologies.</div>
+<div>My name is Nishu Goel. I code React@The DataWorks, am an Angular fan person <3. I write blog posts and code labs around Angular and general web development concepts here: <a href="nishugoel.wordpress.com" target="blank">https://unravelweb.dev/</a> and on <a href="https://medium.com/@nishu0505" target="_blank">Medium</a>. I am recognised as a Google developer expert in Angular and Web technologies, and awarded Microsoft MVP in Developer technologies.</div>
 <br>
 
 
