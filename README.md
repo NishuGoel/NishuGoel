@@ -14,7 +14,7 @@
 
 ## Putting down here some of my work:
 
-<a href= "https://almanac.httparchive.org/en/2020/" target="_blank">Author - JavaScript 2021 Web Almanac</a><br/>
+<a href="https://almanac.httparchive.org/en/2021/javascript" target="_blank">Author - JavaScript 2021 Web Almanac</a><br/>
 <a href="http://amzn.to/2I39w2K" target="_blank">My book on Routing and navigation in Angular</a><br/>
 <a href="https://www.educative.io/courses/a-hands-on-guide-to-angular" target="_blank">Author - Educative Angular Cookbook</a><br/>
 <a href="https://bit.ly/msdevcon-web" target="_blank">Codelab on creating webcomponents using Angular and consuming in React, Vanilla JS etc.</a><br/>
