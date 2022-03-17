@@ -2,7 +2,7 @@
 
 <div align="center">
 	<br>
-	<a href="nishugoel.medium.com" target="_blank">
+	<a href="https://nishugoel.medium.com/" target="_blank">
 		<img src="https://svgshare.com/i/N3q.svg" width="800" height="400">
 	</a>
 	<br>
