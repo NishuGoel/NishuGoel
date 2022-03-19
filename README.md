@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-<div align="center">
+<!-- <div align="center">
 	<br>
 	<a href="https://nishugoel.medium.com/" target="_blank">
 		<img src="https://svgshare.com/i/N3q.svg" width="800" height="400">
@@ -8,13 +8,16 @@
 	<br>
 </div>
 
-<div>My name is Nishu Goel. I code React, Golang, am a web engineer <3. I write blog posts and code labs around Web and general Engineering concepts on <a href="https://unravelweb.dev/" target="_blank">my personal blog</a> and on <a href="https://nishugoel.medium.com/" target="_blank">Medium</a>. I am recognised as a Google developer expert in Angular and Web technologies, and awarded the prestigious Microsoft Most Valuable Professional (MVP) award in Developer technologies.</div>
+<div>My name is Nishu Goel. -->
+I work with epilot on their micro-frontend architecture consisting of React/Svelte + Typescript applications. I code React, Golang, am a web engineer <3. I write blog posts and code labs around Web and general Engineering concepts on <a href="https://unravelweb.dev/" target="_blank">my personal blog</a> and on <a href="https://nishugoel.medium.com/" target="_blank">Medium</a>. I am recognised as a Google developer expert in Angular and Web technologies, and awarded the prestigious Microsoft Most Valuable Professional (MVP) award in Developer technologies.
+<!-- </div> -->
 <br>
 
 
 ## Putting down here some of my work:
 
 <a href="https://almanac.httparchive.org/en/2021/javascript" target="_blank">Author - JavaScript 2021 Web Almanac</a><br/>
+<a href="https://open.spotify.com/episode/2C4KYDkRroA6Uc2QevdhLt" target="_blank">Spotify Podcast - Unraveling the Web with me</a><br/>
 <a href="http://amzn.to/2I39w2K" target="_blank">My book on Routing and navigation in Angular</a><br/>
 <a href="https://www.educative.io/courses/a-hands-on-guide-to-angular" target="_blank">Author - Educative Angular Cookbook</a><br/>
 <a href="https://bit.ly/msdevcon-web" target="_blank">Codelab on creating webcomponents using Angular and consuming in React, Vanilla JS etc.</a><br/>
