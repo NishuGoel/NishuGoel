@@ -17,10 +17,12 @@ I work with epilot on their micro-frontend architecture consisting of React/Svel
 <a href="https://github.com/NishuGoel/svelte-i18next" target="_blank">OSS - Created a svelte wrapper for using i18next</a><br/>
 <a href="https://www.ng-ind.com/#speakers" target="_blank">Speaker - Microfrontends at ngIndia 2022</a><br/>
 <a href="https://medium.com/epilot/dabbling-with-epilot-dev-4165a58b13f1" target="_blank">Blog - Work/Life update</a><br/>
+<a href="https://meetup.com/microsoft-reactor-bengaluru/events/285817329/" target="_blank">Meetup Session - How the web/JavaScript has evolved over the years</a><br/>
+<a href="https://web.dev/gde-focus-nishu-goel/" target="_blank">GDE Community Highlight</a><br/>
 <a href="https://dev.to/nishugoel/svelte-i18next-1108" target="_blank">Blog - How to: Svelte i18next</a><br/>
 <a href="https://almanac.httparchive.org/en/2021/javascript" target="_blank">Author - JavaScript 2021 Web Almanac</a><br/>
-<a href="https://open.spotify.com/episode/2C4KYDkRroA6Uc2QevdhLt" target="_blank">Spotify Podcast - Unraveling the Web with me</a><br/>
-<a href="http://amzn.to/2I39w2K" target="_blank">My book on Routing and navigation in Angular</a><br/>
+<a href="https://open.spotify.com/episode/2C4KYDkRroA6Uc2QevdhLt" target="_blank">Podcast (Spotify, Apple, Google) - Unraveling the Web with me</a><br/>
+<a href="http://amzn.to/2I39w2K" target="_blank">Author - My book on Routing and navigation in Angular</a><br/>
 <a href="https://www.educative.io/courses/a-hands-on-guide-to-angular" target="_blank">Author - Educative Angular Cookbook</a><br/>
 <a href="https://bit.ly/msdevcon-web" target="_blank">Codelab on creating webcomponents using Angular and consuming in React, Vanilla JS etc.</a><br/>
 <a href="https://youtu.be/nRrbYGXE8xQ" target="_blank">Talk at ngIndia 2019 on Hostbinding and Hostlistener</a><br/>
