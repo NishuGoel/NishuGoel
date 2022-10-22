@@ -1,20 +1,24 @@
 ## Hi there 👋
 
-<!-- <div align="center">
+ <div align="center">
 	<br>
-	<a href="https://nishugoel.medium.com/" target="_blank">
-		<img src="https://svgshare.com/i/N3q.svg" width="800" height="400">
+	<a href="https://unravelweb.dev/" target="_blank">
+		<img src="https://svgshare.com/i/N3q.svg" width="350" height="200">
 	</a>
 	<br>
 </div>
 
-<div>My name is Nishu Goel. -->
+<div>My name is Nishu Goel.
 I work with epilot on their micro-frontend architecture consisting of React/Svelte + Typescript applications. I code React, Golang, am a web engineer <3. I write blog posts and code labs around Web and general Engineering concepts on <a href="https://unravelweb.dev/" target="_blank">my personal blog</a> and on <a href="https://nishugoel.medium.com/" target="_blank">Medium</a>. I am recognised as a Google developer expert in Angular and Web technologies, and awarded the prestigious Microsoft Most Valuable Professional (MVP) award in Developer technologies.
-<!-- </div> -->
+</div> 
+<br>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=nishugoel&label=Profile%20views&color=0e75b6&style=flat" alt="nishugoel" /> </p><p align="left"> <a href="https://twitter.com/thenishugoel" target="blank"><img src="https://img.shields.io/twitter/follow/thenishugoel?logo=twitter" alt="thenishugoel" /></a> </p>
+<!-- Social Media Banners -->
 
-
+<a href="https://unravelweb.dev/">![Website: Unravel Web](https://img.shields.io/badge/website-000000?style=plastic&logo=aboutme&logoColor=white)</a>
+<a href="https://github.com/nishugoel" target="_blank"> ![Github: nishugoel](https://img.shields.io/badge/GitHub-100000?style=plastic&logo=github)</a>
+<a href="https://www.linkedin.com/in/nishu-goel">![LinkedIn: nishu-goel](https://img.shields.io/badge/-LinkedIn-0e76a8?style=plastic&logo=linkedIn)</a>
+<a href="https://twitter.com/thenishugoel">![Twitter: thenishugoel](https://img.shields.io/twitter/follow/thenishugoel?logo=twitter&style=plastic)</a>
 
 
 
