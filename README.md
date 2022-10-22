@@ -12,6 +12,12 @@
 I work with epilot on their micro-frontend architecture consisting of React/Svelte + Typescript applications. I code React, Golang, am a web engineer <3. I write blog posts and code labs around Web and general Engineering concepts on <a href="https://unravelweb.dev/" target="_blank">my personal blog</a> and on <a href="https://nishugoel.medium.com/" target="_blank">Medium</a>. I am recognised as a Google developer expert in Angular and Web technologies, and awarded the prestigious Microsoft Most Valuable Professional (MVP) award in Developer technologies.
 <!-- </div> -->
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=nishugoel&label=Profile%20views&color=0e75b6&style=flat" alt="nishugoel" /> </p><p align="left"> <a href="https://twitter.com/thenishugoel" target="blank"><img src="https://img.shields.io/twitter/follow/thenishugoel?logo=twitter" alt="thenishugoel" /></a> </p>
+
+
+
+
+
 ## Putting down here some of my work:
 
 <li><a href="https://youtu.be/_DY4sTCugkU" target="_blank">Devfest Romania - JavaScript Surprises</a><br/></li>
