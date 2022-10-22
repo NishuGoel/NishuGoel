@@ -14,6 +14,7 @@ I work with epilot on their micro-frontend architecture consisting of React/Svel
 
 ## Putting down here some of my work:
 
+<li><a href="https://youtu.be/_DY4sTCugkU" target="_blank">Devfest Romania - JavaScript Surprises</a><br/></li>
 <li><a href="https://github.com/NishuGoel/svelte-i18next" target="_blank">OSS - Created a svelte wrapper for using i18next</a><br/></li>
 <li><a href="https://www.ng-ind.com/#speakers" target="_blank">Speaker - Microfrontends at ngIndia 2022</a><br/></li>
 <li><a href="https://medium.com/epilot/dabbling-with-epilot-dev-4165a58b13f1" target="_blank">Blog - Work/Life update</a><br/></li>
