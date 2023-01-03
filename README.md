@@ -23,9 +23,10 @@ I work with epilot on their micro-frontend architecture consisting of React/Svel
 
 
 ## Putting down here some of my work:
-
-<li><a href="https://jspoland.pl/speaker/nishu-goel" target="_blank">JavaScript Poland - JavaScript Surprises</a><br/></li>
-<li><a href="https://youtu.be/_DY4sTCugkU" target="_blank">Devfest Romania - JavaScript Surprises</a><br/></li>
+<li>Performance Planet - <a href="https://calendar.perfplanet.com/2022/breaking-up-long-tasks/" target="_blank">Breaking up long tasks</a><br/></li>
+<li>Devfest London - <a href="https://docs.google.com/presentation/d/1CVNdNywodV5VAm0N1MYKWI3WMR709Rvy/edit?usp=sharing&ouid=110120705238669915810&rtpof=true&sd=true" target="_blank">Understanding JavaScript Memory Usage</a><br/></li>
+<li>JavaScript Poland - <a href="https://jspoland.pl/speaker/nishu-goel" target="_blank">JavaScript Surprises</a><br/></li>
+<li>Devfest Romania - <a href="https://youtu.be/_DY4sTCugkU" target="_blank">JavaScript Surprises</a><br/></li>
 <li><a href="https://github.com/NishuGoel/svelte-i18next" target="_blank">OSS - Created a svelte wrapper for using i18next</a><br/></li>
 <li><a href="https://www.ng-ind.com/#speakers" target="_blank">Speaker - Microfrontends at ngIndia 2022</a><br/></li>
 <li><a href="https://medium.com/epilot/dabbling-with-epilot-dev-4165a58b13f1" target="_blank">Blog - Work/Life update</a><br/></li>
