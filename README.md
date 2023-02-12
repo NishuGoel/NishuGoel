@@ -9,7 +9,7 @@
 </div>
 
 <div>My name is Nishu Goel.
-I work with epilot on their micro-frontend architecture consisting of React/Svelte + Typescript applications. I code React, Golang, am a web engineer <3. I write blog posts and code labs around Web and general Engineering concepts on <a href="https://unravelweb.dev/" target="_blank">my personal blog</a> and on <a href="https://nishugoel.medium.com/" target="_blank">Medium</a>. I am recognised as a Google developer expert in Angular and Web technologies, and awarded the prestigious Microsoft Most Valuable Professional (MVP) award in Developer technologies.
+I work with epilot on their micro-frontend architecture consisting of React/Svelte + Typescript applications. I code React, Golang, am a web engineer <3. I write blog posts and code labs around Web and general Engineering concepts on <a href="https://unravelweb.dev/" target="_blank">my personal blog</a> and on <a href="https://nishugoel.medium.com/" target="_blank">Medium</a>. I am a Google developer expert in Angular and Web technologies, and awarded the prestigious Microsoft Most Valuable Professional (MVP) award in Developer technologies.
 </div> 
 <br>
 
