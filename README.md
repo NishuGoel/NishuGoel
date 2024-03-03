@@ -23,6 +23,10 @@ I work with epilot on their micro-frontend architecture consisting of React/Svel
 
 
 ## Putting down here some of my work:
+<li>Perf now- <a href="https://youtu.be/2djPW7us9VI?si=p-KksXTXDI49o03B" target="_blank">Perf now conference</a><br/></li>
+<li>Lambda Server Timing - <a href="https://unravelweb.dev/2024/01/07/how-using-server-timing-api-helped-bring-70-perf-improvement/" target="_blank">Lambda Server Timing</a><br/></li>
+
+
 <li>Performance Planet - <a href="https://calendar.perfplanet.com/2022/breaking-up-long-tasks/" target="_blank">Breaking up long tasks</a><br/></li>
 <li>Devfest London - <a href="https://docs.google.com/presentation/d/1CVNdNywodV5VAm0N1MYKWI3WMR709Rvy/edit?usp=sharing&ouid=110120705238669915810&rtpof=true&sd=true" target="_blank">Understanding JavaScript Memory Usage</a><br/></li>
 <li>JavaScript Poland - <a href="https://jspoland.pl/speaker/nishu-goel" target="_blank">JavaScript Surprises</a><br/></li>
