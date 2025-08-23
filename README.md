@@ -1,5 +1,4 @@
 <a href="https://unravelweb.dev/">![Website: Unravel Web](https://img.shields.io/badge/website-000000?style=plastic&logo=aboutme&logoColor=white)</a>
-<a href="https://github.com/nishugoel" target="_blank"> ![Github: nishugoel](https://img.shields.io/badge/GitHub-100000?style=plastic&logo=github)</a>
 <a href="https://www.linkedin.com/in/nishu-goel">![LinkedIn: nishu-goel](https://img.shields.io/badge/-LinkedIn-0e76a8?style=plastic&logo=linkedIn)</a>
 <a href="https://twitter.com/thenishugoel">![Twitter: thenishugoel](https://img.shields.io/twitter/follow/thenishugoel?logo=twitter&style=plastic)</a>
 
