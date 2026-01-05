@@ -8,8 +8,5 @@
 
 <li>Performance Planet - <a href="https://calendar.perfplanet.com/2022/breaking-up-long-tasks/" target="_blank">Breaking up long tasks</a><br/></li>
 
-<li><a href="https://github.com/NishuGoel/svelte-i18next" target="_blank">OSS - Created a svelte wrapper for using i18next</a><br/></li>
+<li><a href="https://github.com/NishuGoel/svelte-i18next" target="_blank">A Svelte wrapper for using i18next</a><br/></li>
 <li><a href="http://amzn.to/2I39w2K" target="_blank">Author - My book on Routing and navigation in Angular</a><br/></li>
-
-
-Thank you!
